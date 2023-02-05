@@ -1,0 +1,12 @@
+Whole Number:
+    byte
+    short
+    int
+    long
+Real Number:
+    float
+    double
+Single Character:
+    char
+Boolean
+    boolean
