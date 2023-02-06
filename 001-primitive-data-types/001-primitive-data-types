@@ -1,0 +1,24 @@
+Whole Number:
+    byte
+        Wrapper Class : Byte
+        Size: 8 bits
+    short
+        Wrapper Class: Short
+        Size: 16 bits
+    int
+        Wrapper Class: Integer
+        Size: 32 bits
+    long
+        Wrapper Class: Long
+        Size: 64 bit
+Real Number:
+    float
+        Wrapper Class: Float
+        Width: 32 bits
+    double
+        Wrapper Class: Double
+        Width: 64 bits
+Single Character:
+    char - Character
+Boolean
+    boolean - Boolean
