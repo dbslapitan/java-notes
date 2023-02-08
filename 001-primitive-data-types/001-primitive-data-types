@@ -19,6 +19,10 @@ Real Number:
         Wrapper Class: Double
         Width: 64 bits
 Single Character:
-    char - Character
+    char 
+        Wrapper Class: Character
+        Size: 16 bits
 Boolean
-    boolean - Boolean
+    boolean
+        Wrapper Class: Boolean
+        

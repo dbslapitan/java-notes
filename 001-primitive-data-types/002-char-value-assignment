@@ -1,0 +1,3 @@
+char myChar = '\u004'; unicode
+char myChar = 68; decimal/int equivalent
+char myChar = 'D'; literal
