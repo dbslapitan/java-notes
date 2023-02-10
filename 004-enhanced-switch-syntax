@@ -1,0 +1,5 @@
+switch(variableToCheck){
+    case optionOne -> {/*code here*/}
+    case optionTwo, optionThree, optionFour -> {/*code here*/}
+    default -> {/*code here*/}
+}
