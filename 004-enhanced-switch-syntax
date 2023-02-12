@@ -1,5 +1,7 @@
 switch(variableToCheck){
-    case optionOne -> {/*code here*/}
-    case optionTwo, optionThree, optionFour -> {/*code here*/}
-    default -> {/*code here*/}
+    case optionOne -> {yeild "Selected option 1."}
+    case optionTwo, optionThree, optionFour -> "Selected option 2";
+    default -> {System.out.println("Not a return")}
 }
+***Use the keyword yeild to return values. IE 1st case
+***Omit yeild if not using code block and only one statement. IE. 2nd case
