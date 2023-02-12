@@ -1,0 +1,6 @@
+Class - a blueprint
+Object - an instantiation of a Class
+
+Fields
+Static fields - accessed through ClassName.staticField, stored in one place in the memory.
+Instance fields - accessed through ObjectVariable.instanceField
