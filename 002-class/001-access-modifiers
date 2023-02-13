@@ -1,0 +1,4 @@
+public - any other class can access
+protected - allows classes in the same package, and any subclass in other packages, to have access to the member
+package-private - when the modifier is omitted, the member is accessible only to classes in the same package
+private - no other class can access this member.

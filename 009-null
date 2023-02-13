@@ -1,0 +1,2 @@
+special keyword in Java, meaning the variable or attribute has a type but no reference to an object.
+Fields with primitive data types are never null.
